@@ -6,8 +6,6 @@
 </div>
 
 
-## Environment Setup
-
 1. Requirement:
 
 ```bash
