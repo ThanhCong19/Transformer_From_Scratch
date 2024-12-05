@@ -11,18 +11,18 @@
 1. Requirement:
 
 ```bash
-!pip install datasets
-!pip install tokenizers
-!pip install torchmetrics
+pip install datasets
+pip install tokenizers
+pip install torchmetrics
 ```
 
 2. Clone the repository:
 
 ```bash
-!git clone https://github.com/ThanhCong19/Transformers_From_Scratch.git
+git clone https://github.com/ThanhCong19/Transformers_From_Scratch.git
 cd Transformers_From_Scratch
-!mkdir -p /content/Transformers_From_Scratch/weights
-!mkdir -p /content/Transformers_From_Scratch/vocab
+mkdir -p /content/Transformers_From_Scratch/weights
+mkdir -p /content/Transformers_From_Scratch/vocab
 ```
 
 3. Training:
