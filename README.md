@@ -6,7 +6,7 @@
 </div>
 
 
-1. Requirement:
+1. Requirements:
 
 ```bash
 pip install datasets
