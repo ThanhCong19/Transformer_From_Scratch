@@ -34,4 +34,4 @@ Or you can see all tutorial in 'train_colab.ipynb'
 
 ## Acknowledgements
 
-Thanks [pytorch-trasformer](https://github.com/hkproj/pytorch-transformer) for the base codes.
+Thanks [pytorch-transformer](https://github.com/hkproj/pytorch-transformer) for the base codes.
